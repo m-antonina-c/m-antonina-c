@@ -16,7 +16,7 @@ body {
 	background: #c0c0c0 url(images/templatemo_body.jpg) repeat-x top;
 }
 
-h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
+h1, h2, h3, h4, h5, h6 { margin: -5; padding: 0; }
 
 a:link, a:visited { color: #f2c3e7; text-decoration: none; font-weight: normal; } 
 a:active, a:hover { color: #f2c3e7; text-decoration: underline; }
